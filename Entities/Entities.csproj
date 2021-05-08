@@ -8,4 +8,8 @@
     <Compile Remove="RentACarContext.cs" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Abstract\" />
+  </ItemGroup>
+
 </Project>
